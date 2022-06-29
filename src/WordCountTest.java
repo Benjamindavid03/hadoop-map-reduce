@@ -12,13 +12,6 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
-/**
- * 
- * @author binod_Suman
- * Binod Suman Academy YouTube
- *
- */
-
 public class WordCountTest {
 	
 	public static void main(String [] args) throws Exception
